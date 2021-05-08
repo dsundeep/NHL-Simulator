@@ -1,4 +1,4 @@
-A Java console application simulating the National Ice Hockey League.
+- A Java console application simulating the National Ice Hockey League.
 
 # Authors
 - Prashant Kumar - (prashant.kumar@dal.ca)
